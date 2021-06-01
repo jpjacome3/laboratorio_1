@@ -7,7 +7,7 @@
 | --- | --- | --- |
 | **ASIGNATURA:** Programación Orientada a Objetos Nrc 3725 | **FECHA DE**  **ELABORACIÓN**** :** 31-05-2021
 **SEMESTRE** : Mayo 2021 – Septiembre 2021
- |
+                                   |
 | **TÍTULO:** Control de Versiones | **DOCENTE: Ing. Cesar Osorio** |
 
 **INTEGRANTES DEL GRUPO 2**
