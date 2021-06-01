@@ -14,6 +14,7 @@
 - Samuel Aldaz
 - Jean Jacome
 - Steven López
+- Jennifer Tipan
 
 OBJETIVO
 
