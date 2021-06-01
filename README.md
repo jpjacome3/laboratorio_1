@@ -1,23 +1,20 @@
 # laboratorio_1
-DEPARTAMENTO DE CIENCIAS DE LA COMPUTACIÓN
+**DEPARTAMENTO DE CIENCIAS DE LA COMPUTACIÓN**
 
-GUIA DE PRACTICA DE LABORATORIO /TALLER
+**GUIA DE PRACTICA DE LABORATORIO /TALLER**
 
-CARRERA: Electrónica y Automatización	
-GUÍA No. 01	
-TIEMPO ESTIMADO: 1h y 20 min.
-ASIGNATURA: Programación Orientada a Objetos 
-Nrc 3725	
-FECHA DE ELABORACIÓN** :** 31-05-2021	
-SEMESTRE : Mayo 2021 – Septiembre 2021		
-| | TÍTULO: Control de Versiones | DOCENTE: Ing. Cesar Osorio |
+| **CARRERA:** Electrónica y Automatización | **GUÍA** No. 01 | **TIEMPO ESTIMADO:** 1h y 20 min. |
+| --- | --- | --- |
+| **ASIGNATURA:** Programación Orientada a Objetos Nrc 3725 | **FECHA DE**  **ELABORACIÓN**** :** 31-05-2021
+**SEMESTRE** : Mayo 2021 – Septiembre 2021
+ |
+| **TÍTULO:** Control de Versiones | **DOCENTE: Ing. Cesar Osorio** |
 
-INTEGRANTES DEL GRUPO 2
+**INTEGRANTES DEL GRUPO 2**
 
--Samuel Aldaz
--Jean Jacome
--Steven López
--Jennifer Tipan
+- Samuel Aldaz
+- Jean Jacome
+- Steven López
 
 OBJETIVO
 
@@ -64,11 +61,3 @@ CONCLUSIONES.
 
 Después de realizar las evaluaciones de la herramienta Git, se concluyó que se puede crear repositorios con los cuales se logra mantener un historial de las versiones que se lleva a cabo, de igual manera se realizó el ejercicio en la herramienta Git en el repositorio remoto la cual podemos extraer información desde cualquier lugar desde la nube. La cual se pudo aplicar conceptos y comandos para la realización de forma colectiva del programa que demuestra la sucesión de Fibonacci.
 
-Want to convert another document?
-
-Feedback
-Source
-Donate
-Terms
-Privacy
-@benbalter
