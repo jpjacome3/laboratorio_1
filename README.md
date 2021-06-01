@@ -1,11 +1,11 @@
-# laboratorio_1
+# Laboratorio_1
 **DEPARTAMENTO DE CIENCIAS DE LA COMPUTACIÓN**
 
 **GUIA DE PRACTICA DE LABORATORIO /TALLER**
 
 | **CARRERA:** Electrónica y Automatización | **GUÍA** No. 01 | **TIEMPO ESTIMADO:** 1h y 20 min. |
 | --- | --- | --- |
-| **ASIGNATURA:** Programación Orientada a Objetos Nrc 3725 | **FECHA DE**  **ELABORACIÓN**** :** 31-05-2021
+| **ASIGNATURA:** Programación Orientada a Objetos Nrc 3725 | **FECHA DE**  **ELABORACIÓN:** 31-05-2021
 **SEMESTRE** : Mayo 2021 – Septiembre 2021 | **TÍTULO:** Control de Versiones | **DOCENTE: Ing. Cesar Osorio** |
 
 
