@@ -6,9 +6,8 @@
 | **CARRERA:** Electrónica y Automatización | **GUÍA** No. 01 | **TIEMPO ESTIMADO:** 1h y 20 min. |
 | --- | --- | --- |
 | **ASIGNATURA:** Programación Orientada a Objetos Nrc 3725 | **FECHA DE**  **ELABORACIÓN**** :** 31-05-2021
-**SEMESTRE** : Mayo 2021 – Septiembre 2021
-                                   |
-| **TÍTULO:** Control de Versiones | **DOCENTE: Ing. Cesar Osorio** |
+**SEMESTRE** : Mayo 2021 – Septiembre 2021 | **TÍTULO:** Control de Versiones | **DOCENTE: Ing. Cesar Osorio** |
+
 
 **INTEGRANTES DEL GRUPO 2**
 
